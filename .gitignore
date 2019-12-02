@@ -1,0 +1,14 @@
+/*
+!.gitignore
+!vendor/
+vendor/composer/
+vendor/phpmailer/
+vendor/rain/
+vendor/slim/
+!vendor/autoload.php
+!/*.php
+!*.md
+!res/
+!sql/
+!views/
+!composer.*
