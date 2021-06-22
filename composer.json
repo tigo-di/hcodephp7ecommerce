@@ -3,7 +3,7 @@
     "description": "Projeto de Ecommerce do Curso PHP7 Completo da Hcode na Udemy",
     "type": "project",
     "require": {
-    	"phpmailer/phpmailer":"5.2.22",
+    	"phpmailer/phpmailer":"6.5.0",
     	"slim/slim":"2.0",
     	"rain/raintpl":"3.0.0"
     },
